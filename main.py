@@ -77,4 +77,4 @@ elif choice == 2:
 else:
   print("Did you choose 0, 1 or 2? Please try again. :)")
 
-print("\nThis was great, let's do it Again!")
+print("\nThis was great, let's do it Again! ;)")
