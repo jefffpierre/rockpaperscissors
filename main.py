@@ -35,34 +35,43 @@ print("\nLets Roll!")
 if choice == 0:
   print(rock)
   if choice2 == 0:
+    print("Computer says:")
     print(rock)
     print("Both rock, try again!")
   elif choice2 == 1:
+    print("Computer says:")
     print(paper)
     print("Paper! You lose!")
   elif choice2 == 2:
+    print("Computer says:")
     print(scissors)
     print("Scissors! Aw No :( You Win!")
 elif choice == 1:
   print(paper)
   if choice2 == 0:
+    print("Computer says:")
     print(rock)
     print("Rock! Aw No :( You Win!")
   elif choice2 == 1:
+    print("Computer says:")
     print(paper)
     print("Both paper, try again")
   elif choice2 == 2:
+    print("Computer says:")
     print(scissors)
     print("Ha Scissors! Sucka! You lose!")
 elif choice == 2:
   print(scissors)
   if choice2 == 0:
+    print("Computer says:")
     print(rock)
     print("Rock! Sucka! You lose.")
   elif choice2 == 1:
+    print("Computer says:")
     print(paper)
     print("Paper, dangit, you win!")
   elif choice2 == 2:
+    print("Computer says:")
     print(scissors)
     print("Both scissors, try again!") 
 else:
